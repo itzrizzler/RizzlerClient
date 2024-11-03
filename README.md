@@ -1,6 +1,6 @@
 # RizzlerClient
 
-RizzlerClient is a highly customized version of HolaClient V1, designed to enhance client hosting experiences with unique functionalities and customization options. 
+RizzlerClient is a highly customised pterodactyl client area, designed to enhance client hosting experiences with unique functionalities and customization options. 
 
 ## Overview
 
